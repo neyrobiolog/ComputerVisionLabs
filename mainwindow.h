@@ -33,6 +33,14 @@ private slots:
     void on_pushButton_clicked();
     void on_MoravecButton_clicked();
     void on_HarrisonButton_clicked();
+    void on_findBlobs_2_triggered();
+    void on_scaleCompareAction_2_triggered();
+    void on_seeDescriptors_2_triggered();
+    void on_actionRANSAC_triggered();
+    void on_actionHOUGH_triggered();
+    void on_OpenFirstImage_triggered();
+    void on_OpenSecondImage_triggered();
+    void on_simpleCompareAction_triggered();
 };
 
 #endif // MAINWINDOW_H
